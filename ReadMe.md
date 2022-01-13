@@ -11,9 +11,6 @@ This is a MERN stack application. It is a small social network app that includes
 
 View a live demo of this project on [Heroku](https://sabari-devconn.herokuapp.com/)
 
-View my Portfolio website [Here](sabarinathan07.github.io)
-
-
 ---
 # Screenshots
 
