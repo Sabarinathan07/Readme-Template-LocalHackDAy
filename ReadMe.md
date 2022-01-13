@@ -1,26 +1,53 @@
-# [Sabari-Blog](https://sabari-devconn.herokuapp.com/)
+# [CodeBridge](https://code-bridge.herokuapp.com/)
 
-> Create your own Profile/Portfolio, share your own thoughts via posts, like or comment other posts. And share your experience education with everyone.
+> A unique community to join hands with fellow developers who have similar interests as You
 
 <h1 align="center">
-<a href="https://sabari-devconn.herokuapp.com/">
-<img src="https://github.com/Sabarinathan07/BLOG-MERN/blob/master/Screenshots/1.png?raw=true" />
+<a href="https://code-bridge.herokuapp.com/">
+<img src="https://github.com/Sabarinathan07/CodeBridge/blob/master/Screenshots/ss1.png?raw=true" />
 </h1></a>
 
-This is a MERN stack application. It is a small social network app that includes authentication, profiles and forum posts.
+---
+## Objective 
 
-View a live demo of this project on [Heroku](https://sabari-devconn.herokuapp.com/)
+* To build connection between like-minded Developers.
+
+* To develop a web application where the user could collaborate with other developers and make a project. This will act as  a tool to unite developers and grow together.
+
+---
+## Uniqueness
+
+* Website is Integrated with GitHub Repo where Developers can view Fork’s, Star’s, Watches and more.
+
+* Can be used as awesome Online Portfolio and
+Ability to maintain Timeline among Developers.
+
+
+---
+## Technology Stack
+### Front end: 
+* ReactJS
+### Back end:
+* NodeJS 
+* Express
+* MongoDB
+
+
+
+View a live demo of this project on [Heroku](https://code-bridge.herokuapp.com/)
 
 ---
 # Screenshots
 
-![alt text](https://github.com/Sabarinathan07/BLOG-MERN/blob/master/Screenshots/10.png?raw=true)
+![alt text](https://github.com/Sabarinathan07/CodeBridge/blob/master/Screenshots/ss4.png?raw=true)
 
-![alt text](https://github.com/Sabarinathan07/BLOG-MERN/blob/master/Screenshots/7.png?raw=true)
+![alt text](https://github.com/Sabarinathan07/CodeBridge/blob/master/Screenshots/ss8.png?raw=true)
 
-![alt text](https://github.com/Sabarinathan07/BLOG-MERN/blob/master/Screenshots/2.png?raw=true)
+![alt text](https://github.com/Sabarinathan07/CodeBridge/blob/master/Screenshots/ss9.png?raw=true)
 
-![alt text](https://github.com/Sabarinathan07/BLOG-MERN/blob/master/Screenshots/6.png?raw=true)
+![alt text](https://github.com/Sabarinathan07/CodeBridge/blob/master/Screenshots/ss3.png?raw=true)
+
+![alt text](https://github.com/Sabarinathan07/CodeBridge/blob/master/Screenshots/ss2.png?raw=true)
 
 ---
 
@@ -29,7 +56,7 @@ View a live demo of this project on [Heroku](https://sabari-devconn.herokuapp.co
 ### Clone App
 
 ``` 
-git clone https://github.com/Sabarinathan07/BLOG-MERN
+git clone https://github.com/Sabarinathan07/CodeBridge
 ```
 
 
@@ -69,8 +96,6 @@ Check in browser on [http://localhost:3000/](http://localhost:3000/)
 
 ### Author
 
-SABARINATHAN R
-
-[Sabarinathan07](https://github.com/Sabarinathan07)
+[SABARINATHAN R](https://github.com/Sabarinathan07)
 
 
